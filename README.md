@@ -13,6 +13,7 @@ Functionality:
 - Checking participating characters and planets
 - Searching
 - Dark and light themes
+- Mobile version
 
 Angular 11: https://dreamvibe1993.github.io/star-wars-js-camp-angular  
 Functionality: 
@@ -23,6 +24,7 @@ Functionality:
 - Checking movies profiles
 - Checking participating characters and planets
 - Searching
+- Mobile version
 Credentials for a test run: test@test.test aaaaaaa
 
 Vanilla (JS HTML CSS): https://dreamvibe1993.github.io/star-wars-js-camp-vannillajs/index.html  
@@ -33,5 +35,7 @@ Functionality:
 - Checking movies profiles
 - Checking participating characters and planets
 - Searching
+- Mobile version  
+
 
 Shout out to https://www.interesnee.ru/
