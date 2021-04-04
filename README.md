@@ -14,7 +14,7 @@ Functionality:
 - Searching
 - Dark and light themes
 
-Angular 11: https://dreamvibe1993.github.io/star-wars-js-camp-angular 
+Angular 11: https://dreamvibe1993.github.io/star-wars-js-camp-angular  
 Functionality: 
 - Logging in
 - Deleting an entry
