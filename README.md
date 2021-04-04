@@ -26,6 +26,7 @@ Functionality:
 Credentials for a test run: test@test.test aaaaaaa
 
 Vanilla (JS HTML CSS): https://dreamvibe1993.github.io/star-wars-js-camp-vannillajs/index.html  
+Functionality: 
 - Deleting an entry
 - Adding an entry
 - Editing an entry
