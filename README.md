@@ -4,10 +4,33 @@ Projects made during my internship in Saritasa's LLC Ekaterinburg branch. (Winte
 
 React 17: https://dreamvibe1993.github.io/star-wars-react/  
 Functionality: 
-Login, Creating an account, Deleting, Adding, Editing an entry, checking characters and planets profiles, and also searching.
+- Logging in
+- Creating an account
+- Deleting an entry
+- Adding an entry
+- Editing an entry
+- Checking characters, movies and planets profiles
+- Checking participating characters and planets
+- Searching
+- Dark and light themes
 
-Angular 11: https://dreamvibe1993.github.io/star-wars-js-camp-angular  
+Angular 11: https://dreamvibe1993.github.io/star-wars-js-camp-angular 
+Functionality: 
+- Logging in
+- Deleting an entry
+- Adding an entry
+- Editing an entry
+- Checking movies profiles
+- Checking participating characters and planets
+- Searching
+Credentials for a test run: test@test.test aaaaaaa
 
 Vanilla (JS HTML CSS): https://dreamvibe1993.github.io/star-wars-js-camp-vannillajs/index.html  
+- Deleting an entry
+- Adding an entry
+- Editing an entry
+- Checking movies profiles
+- Checking participating characters and planets
+- Searching
 
 Shout out to https://www.interesnee.ru/
